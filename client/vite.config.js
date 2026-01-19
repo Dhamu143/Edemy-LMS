@@ -10,4 +10,4 @@ export default defineConfig({
       overlay: false, // Disable error overlay
     },
   },
-})
+});
